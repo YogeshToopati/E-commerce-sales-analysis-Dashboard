@@ -1,11 +1,11 @@
-📦 E‑Commerce Sales Analysis Dashboards
+#E‑Commerce Sales Analysis Dashboards
 
-📊 Overview
+#Overview
 This repository contains interactive Power BI dashboards designed to analyze e‑commerce performance from both executive and product manager perspectives. The dashboards provide insights into revenue trends, customer segments, product categories, brand performance, and profitability, enabling data‑driven decision making.
 
-🚀 Dashboards
+#Dashboards
 
-🏢 Executive Dashboard (Revenue Focus)
+#Executive Dashboard (Revenue Focus)
 
 Aim :
 Provide executives with a clear view of revenue trends by customer geography and segment, helping them make strategic decisions on markets, customer acquisition, and profitability.
@@ -30,7 +30,7 @@ Country
 
 Order Status (Completed, Returned, Cancelled)
 
-📦 Product Manager Dashboard (Sales Focus)
+#Product Manager Dashboard (Sales Focus)
 
 Aim  :
 Enable product managers to track product performance, profitability, and customer satisfaction at the category and brand level.
@@ -57,7 +57,7 @@ Country
 
 Order Status (Completed, Returned, Cancelled)
 
-🎯 Insights Delivered :
+#Insights Delivered :
 
 Identify top‑performing categories, brands, and regions
 
@@ -65,13 +65,13 @@ Detect loss‑making products despite high sales
 
 Understand the relationship between customer ratings and revenue
 
-🛠️ Tech Stack :
+#Tech Stack :
 
 Power BI → Data modeling, DAX measures, interactive dashboards
 
 Data Sources → Customer master, product catalog, order items, sales transactions
 
-Screenshots :
+#Screenshots :
 
 Executive Dashboard : https://github.com/YogeshToopati/E-commerce-sales-analysis-Dashboard/blob/main/Executive%20Dashboard.png
 
