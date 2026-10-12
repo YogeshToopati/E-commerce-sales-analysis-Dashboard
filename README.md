@@ -6,6 +6,7 @@ This repository contains interactive Power BI dashboards designed to analyze e�
 🚀 Dashboards
 
 🏢 Executive Dashboard (Revenue Focus)
+
 Aim :
 Provide executives with a clear view of revenue trends by customer geography and segment, helping them make strategic decisions on markets, customer acquisition, and profitability.
 
@@ -30,12 +31,13 @@ Country
 Order Status (Completed, Returned, Cancelled)
 
 📦 Product Manager Dashboard (Sales Focus)
+
 Aim  :
 Enable product managers to track product performance, profitability, and customer satisfaction at the category and brand level.
 
 Key Visuals :
 
-Bar Chart → Total Sales by Product Category/Subcategory
+Column Chart → Total Sales by Product Category/Subcategory
 
 Bar Chart → Sales contribution by Brand (Top N brands)
 
